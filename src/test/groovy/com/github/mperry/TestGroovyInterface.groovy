@@ -7,17 +7,17 @@ import org.junit.Test
  * Created by mperry on 1/07/2014.
  */
 @TypeChecked
-class TestClass1 {
+class TestGroovyInterface {
 
     @Test
     void test1() {
-        new Class1() {
+        new GroovyInterface() {
             def <T> void method(Object o) {
 
             }
 
         }
-        new Class1() {
+        new GroovyInterface() {
             void method(Object o) {
 
             }
