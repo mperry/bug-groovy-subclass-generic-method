@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'bug-groovy-subclass-generic-method'
+rootProject.name = 'java-groovy-generic-method-type-erasure'
