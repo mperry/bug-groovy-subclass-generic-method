@@ -17,6 +17,11 @@ class TestClass1 {
             }
 
         }
+        new Class1() {
+            void method(Object o) {
+
+            }
+        }
     }
 
 }
